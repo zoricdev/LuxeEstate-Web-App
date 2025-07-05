@@ -1,4 +1,4 @@
-# Luxe Estate Real Estate Website 🏡
+# Luxe Estate Real Estate Website 🏠✨
 
 A modern real estate website built with **React.js**, featuring smooth animations powered by **Framer Motion** for an engaging user experience. 🚀
 
